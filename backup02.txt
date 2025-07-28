@@ -1,0 +1,4 @@
+Nome do arquivo: backup01.txt
+Conteúdo: Segundo backup simulado de arquivos
+          para teste em sistema de backup em nuvem.
+Data: 28/07/2025
